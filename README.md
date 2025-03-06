@@ -20,3 +20,15 @@
 
 7. **What did the GitHub repository say to the developer?**  
    "Don’t worry, I’ve got your back. I’ll always revert to you when you need me."
+
+
+
+## Basic Workflow
+1. **Clone** a repo: `git clone <repo-url>`
+2. **Create a branch**: `git checkout -b <branch-name>`
+3. **Commit** changes: `git commit -m "message"`
+4. **Push** to GitHub: `git push origin <branch-name>`
+5. **Create a Pull Request** to merge changes.
+
+For more info, visit [GitHub](https://github.com).
+
